@@ -1,0 +1,30 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: auto;
+  margin-left: 40rem;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.input {
+  margin: 10px 0;
+  width: 300px;
+  margin-bottom: 40rem;
+}
+
+h1{
+  align-items: center;
+  text-align: center;
+  margin-left: 650px;
+}
+
