@@ -1,5 +1,5 @@
 import React from 'react';
-import RegistroUsuario from './components/registrar';
+import RegistroUsuario from './src/components/registrar';
 import './App.css'; 
 
 
